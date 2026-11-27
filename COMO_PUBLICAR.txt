@@ -1,0 +1,15 @@
+TOURO EM ALTA - VERSAO CELULAR (Streamlit Community Cloud, gratis)
+==================================================================
+1) Crie conta gratis no GitHub (github.com) e um repositorio NOVO e PRIVADO, ex.: touro-em-alta.
+   Envie para ele TODOS os arquivos desta pasta (Add file > Upload files), incluindo a pasta .streamlit.
+2) Entre em share.streamlit.io com a conta do GitHub > "Create app".
+   Repositorio: touro-em-alta | Branch: main | Main file path: app_web.py > Deploy.
+3) (Recomendado) Proteja com senha: no app, Settings > Secrets, cole:
+   APP_PASSWORD = "sua-senha-aqui"
+4) Abra o link no celular. Para virar "app": Chrome > menu > "Adicionar a tela inicial"
+   (iPhone: Safari > Compartilhar > "Adicionar a Tela de Inicio").
+
+Dicas
+- Se o Yahoo limitar as consultas na nuvem, tente de novo em alguns minutos.
+- Lista de ativos: edite universe.csv no GitHub; o app atualiza sozinho.
+- Melhor horario: depois das 10h05 (pregao aberto).
